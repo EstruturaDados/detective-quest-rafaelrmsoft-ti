@@ -1,4 +1,4 @@
-#include <stdio.h>
+///#include <stdio.h>
 
 // Desafio Detective Quest
 // Tema 4 - Árvores e Tabela Hash
